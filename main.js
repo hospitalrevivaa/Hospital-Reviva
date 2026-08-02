@@ -77,5 +77,5 @@ form.addEventListener("submit",event=>{
     `Telefone: ${telefone}`,
     `Interesse: ${interesse}`
   ].join("\n");
-  window.open(`https://wa.me/5561999131071?text=${encodeURIComponent(text)}`,"_blank","noopener");
+  window.open(`https://wa.me/5562992433763?text=${encodeURIComponent(text)}`,"_blank","noopener");
 });
